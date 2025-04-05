@@ -20,14 +20,14 @@ On clicking the 'SAY IT!' button the translated text will be given in voice form
 with the python server. And other button will send data to the server. The server is made with python, concept of socket programming was implemented to eastablish 
 connection between client and server. Natural Language Processing (NLP) was used to create language detecting model, the same model was extracted in the pckl format
 and used on the server to detect the language of text collected from the application. After detecting the language respective output was given back to the application
-in the form of response. This application can even work in offline mode, and translate text of 5 different languages.</p>
+in the form of response. This application can even work in offline mode, and translate text of 3 different languages.</p>
 <p> Languages: </p>
 
 * English
 * German
 * French
-* Marathi
-* Hindi
+* Marathi : TODO
+* Hindi : TODO
 
 <br />
 <h2>Technology Stack:</h2>
