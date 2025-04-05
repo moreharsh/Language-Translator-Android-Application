@@ -1,4 +1,4 @@
-<h1>Translator App </h1>
+<h1> Language Translator Android Application </h1>
 
 <h2>Aim:</h2>
 <p> To create an app, which can take input as user’s voice and translate it into the desired language, and finally provide translated voice as output. </p>
